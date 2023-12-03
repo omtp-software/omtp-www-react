@@ -1,0 +1,17 @@
+.content {
+  max-width: 800px;
+  margin: 140px auto;
+}
+
+.content__blurb {
+  max-width: 800;
+  margin: 20px auto;
+  color: #EAA763;
+  font-family: "Cabinet Grotesk";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  padding: 40px;
+  background-color: #242526;
+  border-radius: 12px;
+}
