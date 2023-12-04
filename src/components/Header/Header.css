@@ -4,6 +4,8 @@
   justify-content: space-between;
   width: 1380px;
   margin: 0 auto 0;
+  position: relative;
+  top: 10px;
 }
 
 .header_left-side {
