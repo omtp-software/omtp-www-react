@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/omtp-www-react/static/css/main.4e8c491a.css",
-    "main.js": "/omtp-www-react/static/js/main.0174dc87.js",
-    "static/media/CabinetGrotesk-Bold.woff": "/omtp-www-react/static/media/CabinetGrotesk-Bold.0fb1cbec860aa3537c32.woff",
-    "static/media/CabinetGrotesk-Regular.woff": "/omtp-www-react/static/media/CabinetGrotesk-Regular.133340b3f2339c545d7a.woff",
-    "static/media/CabinetGrotesk-Medium.woff": "/omtp-www-react/static/media/CabinetGrotesk-Medium.1928499875b5b3682ea5.woff",
-    "static/media/GirShades-LookRight_small.png": "/omtp-www-react/static/media/GirShades-LookRight_small.f3432ff43fc0eca51729.png",
-    "static/media/CabinetGrotesk-Regular.woff2": "/omtp-www-react/static/media/CabinetGrotesk-Regular.36628114dad0d602be78.woff2",
-    "static/media/CabinetGrotesk-Bold.woff2": "/omtp-www-react/static/media/CabinetGrotesk-Bold.c9c3bc30c44ade9d3b9b.woff2",
-    "static/media/CabinetGrotesk-Medium.woff2": "/omtp-www-react/static/media/CabinetGrotesk-Medium.467bcdaa2530ea758403.woff2",
-    "index.html": "/omtp-www-react/index.html",
-    "main.4e8c491a.css.map": "/omtp-www-react/static/css/main.4e8c491a.css.map",
-    "main.0174dc87.js.map": "/omtp-www-react/static/js/main.0174dc87.js.map"
+    "main.css": "/static/css/main.1adf137c.css",
+    "main.js": "/static/js/main.53d3a4f8.js",
+    "static/media/CabinetGrotesk-Bold.woff": "/static/media/CabinetGrotesk-Bold.0fb1cbec860aa3537c32.woff",
+    "static/media/CabinetGrotesk-Regular.woff": "/static/media/CabinetGrotesk-Regular.133340b3f2339c545d7a.woff",
+    "static/media/CabinetGrotesk-Medium.woff": "/static/media/CabinetGrotesk-Medium.1928499875b5b3682ea5.woff",
+    "static/media/GirShades-LookRight_small.png": "/static/media/GirShades-LookRight_small.f3432ff43fc0eca51729.png",
+    "static/media/CabinetGrotesk-Regular.woff2": "/static/media/CabinetGrotesk-Regular.36628114dad0d602be78.woff2",
+    "static/media/CabinetGrotesk-Bold.woff2": "/static/media/CabinetGrotesk-Bold.c9c3bc30c44ade9d3b9b.woff2",
+    "static/media/CabinetGrotesk-Medium.woff2": "/static/media/CabinetGrotesk-Medium.467bcdaa2530ea758403.woff2",
+    "index.html": "/index.html",
+    "main.1adf137c.css.map": "/static/css/main.1adf137c.css.map",
+    "main.53d3a4f8.js.map": "/static/js/main.53d3a4f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e8c491a.css",
-    "static/js/main.0174dc87.js"
+    "static/css/main.1adf137c.css",
+    "static/js/main.53d3a4f8.js"
   ]
 }
