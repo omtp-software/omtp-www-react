@@ -2,14 +2,14 @@
   display: flex;
   flex-direction: column;
   gap: 20px;
-  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  top: -50px;
   font-family: "Cabinet Grotesk", Arial, sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 1.2;
-  margin-top: 171px;
-  padding: 0 20px;
-  text-align: center;
+  margin-top: 0;
   color: #BB763D;
 }
 

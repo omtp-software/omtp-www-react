@@ -1,0 +1,40 @@
+.pagenotfound__container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  position: relative;
+  top: 20px;
+}
+
+.pagenotfound__logo {
+  width: 140px;
+  height: 140px;
+  justify-content: center;
+  position: relative;
+  top: 60px;
+}
+
+.pagenotfound__blurb {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  color: #EAA763;
+  font-family: "Cabinet Grotesk";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.2;
+  padding: 40px;
+  border-radius: 12px;
+  margin-bottom: 40px;
+}
+
+.pagenotfound__blurb_text {
+
+}
+
+.pagenotfound__blurb_text-newline {margin-top: 20px;}
+
+.pagenotfound__notfound-org {
+  border:0;
+}

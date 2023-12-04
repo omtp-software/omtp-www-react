@@ -7,8 +7,11 @@ const Footer = () => {
     <footer className="footer">
       <div>
         <p className="footer__back-link">
-          click here to go back
-          <Link exact to="/" className="menu__link"> Home</Link>
+          click{" "}
+          <Link exact to="/" className="menu__link">
+            here
+          </Link>{" "}
+          to go back home
         </p>
       </div>
       <div>
