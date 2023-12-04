@@ -15,6 +15,7 @@ function Header() {
         <h1 className="header__header">OhMyTallest Productions</h1>
       </div>
       <NavBar />
+      <hr className="header__bottom-border"></hr>
     </div>
   );
 }
