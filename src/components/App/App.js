@@ -8,6 +8,7 @@ function App() {
   return (
     <BrowserRouter>
       <Header />
+      <hr className="header__bottom-border"></hr>
       <main className="content">
         <p className="content__blurb">
           Welcome to our little public piece of internet. This site is currently
