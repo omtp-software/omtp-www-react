@@ -2,8 +2,7 @@
   "name": "omtp-main-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://UncleTallest.github.io/website-2023-revamp",
-  "dependencies": {
+  "homepage": "https://omtp-software.github.io/website-2023-revamp",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
