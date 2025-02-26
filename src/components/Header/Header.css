@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  width: 1380px;
+  margin: 0 auto 0;
+  position: relative;
+  top: 10px;
+}
+
+.header_left-side {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+}
+
+.header__logo {
+  height: 80px;
+  padding-top: 10px;
+  margin-left: 40px;
+}
+
+.header__header {
+  color: #EAA763;
+  font-family: "Cabinet Grotesk";
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1.2;
+  padding-top: 40px;
+  }

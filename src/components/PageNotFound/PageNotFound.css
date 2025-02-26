@@ -1,0 +1,46 @@
+.pagenotfound__outer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+
+.pagenotfound__container {
+  width: 900px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  /* position: relative; */
+  top: 20px;
+}
+
+.pagenotfound__logo {
+  width: 140px;
+  height: 140px;
+  position: relative;
+  top: 60px;
+}
+
+.pagenotfound__blurb {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  margin: 0 auto;
+  padding: 40px;
+  border-radius: 12px;
+  margin-bottom: 40px;
+}
+
+.pagenotfound__blurb_text {
+  font-family: "Cabinet Grotesk";
+  color: #eaa763;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.6rem;
+}
+
+.pagenotfound__blurb_text-newline {
+  margin-top: 20px;
+}

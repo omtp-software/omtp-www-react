@@ -1,0 +1,24 @@
+.menu {
+  padding-top: 55px;
+  padding-right: 40px;
+  display: flex;
+  gap: 30px;
+}
+
+.menu__link {
+  color: #EAA763;
+  font-family: "Cabinet Grotesk";
+  font-weight: 700;
+  font-size: 20px;
+  text-shadow: 2px 2px 4px #BB763D;
+  text-decoration: none;
+  padding: 5px 15px;
+
+}
+
+.menu__link:hover {
+  color: #6495ed;
+  background: #2a2b2c;
+  text-shadow: 2px 2px 4px #1e90ff;
+  border-radius: 3px;
+}

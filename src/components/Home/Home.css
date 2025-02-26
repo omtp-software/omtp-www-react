@@ -1,0 +1,32 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.content__section {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-family: "Cabinet Grotesk";
+  font-weight: 600;
+  font-size: 24px;
+  color: #eaa763;
+  background-color: #242526;
+  border-radius: 12px;
+}
+
+.content__section-blurb {
+  margin: 12px auto;
+  color: #eaa763;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 1.2rem;
+  padding: 0;
+}
+
+.content__section-title {
+  line-height: 1.4rem;
+  padding: 20px;
+}
+

@@ -1,0 +1,26 @@
+.content {
+    max-width: 800px;
+    margin: 140px auto;
+  }
+  
+  .content__section {
+    font-family: "Cabinet Grotesk";
+    background-color: #242526;
+    border-radius: 12px;
+}
+
+.content__section-blurb {
+    margin: 20px auto;
+    color: #EAA763;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2rem;
+    padding: 40px;
+  }
+
+  .content__section-title {
+    line-height: 1.4rem;
+  }
+  .content__section-author {
+    font-style: italic;
+  }

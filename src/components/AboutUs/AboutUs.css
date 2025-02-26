@@ -1,0 +1,36 @@
+.content__section {
+  width: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-family: "Cabinet Grotesk";
+  font-weight: 600;
+  font-size: 24px;
+  color: #eaa763;
+  background-color: #242526;
+  border-radius: 12px;
+}
+
+.content__section-blurb {
+  margin: 0 auto;
+  color: #eaa763;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.6rem;
+  padding: 0;
+}
+
+.content__section-title {
+  font-size: 30px;
+  line-height: 1.6rem;
+  padding: 20px;
+}
+
+.content__section-author {
+  font-style: italic;
+  color: #eaa763;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.4rem;
+  padding: 20px;
+}

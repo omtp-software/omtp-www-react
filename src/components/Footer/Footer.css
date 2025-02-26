@@ -1,0 +1,19 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  position: relative;
+  font-family: "Cabinet Grotesk", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.2;
+  margin-top: 0;
+  color: #BB763D;
+}
+
+.footer_link {
+  color: #EAA763;
+  font-family: "Cabinet Grotesk";
+  font-weight: 700;
+}
